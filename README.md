@@ -16,4 +16,4 @@ This dashboard can be used by content strategy teams to identify high-performing
 
 ### Dashboard Preview
 
-
+![Dashboard](dashboard-overview)
